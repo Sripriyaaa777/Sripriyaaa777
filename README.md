@@ -98,27 +98,10 @@ Built a QNN with ZZFeatureMap and RealAmplitudes ansatz (optimized via COBYLA) t
 
 </details>
 
----
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sripriyaaa777&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sripriyaaa777&layout=compact&theme=radical&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sripriyaaa777&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-<!--
-  🐍 Optional: a live "snake" animation that eats your contribution graph.
-  Needs a one-time GitHub Actions setup (steps below) — until then this line
-  won't render, so remove it if you'd rather skip the setup.
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sripriyaaa777/Sripriyaaa777/output/github-contribution-grid-snake.svg" />
-</p>
+  
 
 ---
 
